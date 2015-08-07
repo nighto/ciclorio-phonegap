@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "br.org.ta.ciclorio"
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Ciclorio</name>
+
+    <description>
+        Mapa Cicloviário do Rio de Janeiro
+    </description>
+
+    <author href="https://ta.org.br" email="arlindo@ta.org.br">
+        Arlindo Pereira
+    </author>
+
+</widget>
